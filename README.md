@@ -2,4 +2,4 @@ Lite device tree of Samsung galaxy A52s 5G (SM-A528B), almost purely from this s
 
 LIKELY REQUIRES CONSOLIDATION/EXTRA MODIFICATIONS.
 
-Please feel free to add a fork of an improved version based off this and also take a look at the heavy version: https://github.com/theyellowray/teamwinrecovery_samsung_a52sxq-heavy 
+Please feel free to add a fork of an improved version based off this and also take a look at the heavy version: https://github.com/theyellowray/teamwinrecovery_samsung_a52sxq-heavy , which is more experimental.
